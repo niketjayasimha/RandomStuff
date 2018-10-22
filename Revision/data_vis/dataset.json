@@ -1,0 +1,1365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "properties": {
+        "Category": "FRAUD",
+        "Descript": "FORGERY, CREDIT CARD",
+        "Date": "02/18/2003",
+        "Location": "2800 Block of VAN NESS AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424612993055,
+          37.8014488257836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "04/17/2003",
+        "Location": "POLK ST / SUTTER ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42012031921101,
+          37.787757060218205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "Category": "LARCENY/THEFT",
+        "Descript": "GRAND THEFT PICKPOCKET",
+        "Date": "02/18/2003",
+        "Location": "VAN NESS AV / MCALLISTER ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42025048261002,
+          37.7800745746105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "Category": "DRUG/NARCOTIC",
+        "Descript": "SALE OF BASE/ROCK COCAINE",
+        "Date": "02/18/2003",
+        "Location": "1600 Block of KIRKWOOD AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390718076188,
+          37.7385560584619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "Category": "OTHER OFFENSES",
+        "Descript": "CONSPIRACY",
+        "Date": "02/18/2003",
+        "Location": "1600 Block of KIRKWOOD AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390718076188,
+          37.7385560584619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "Category": "OTHER OFFENSES",
+        "Descript": "PROBATION VIOLATION",
+        "Date": "02/18/2003",
+        "Location": "1600 Block of KIRKWOOD AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390718076188,
+          37.7385560584619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "Category": "DRUNKENNESS",
+        "Descript": "UNDER INFLUENCE OF ALCOHOL IN A PUBLIC PLACE",
+        "Date": "03/31/2003",
+        "Location": "POST ST / FILLMORE ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43308416680901,
+          37.785149916131395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "03/31/2003",
+        "Location": "POST ST / FILLMORE ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43308416680901,
+          37.785149916131395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "02/22/2003",
+        "Location": "25TH ST / GUERRERO ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.422727873548,
+          37.7503729275448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "04/01/2003",
+        "Location": "800 Block of BRYANT ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40367517406901,
+          37.775177507204496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "04/16/2003",
+        "Location": "100 Block of TURK ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.411451390903,
+          37.7831610223684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "03/06/2003",
+        "Location": "800 Block of BRYANT ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40367517406901,
+          37.775177507204496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "03/28/2003",
+        "Location": "1200 Block of PALOU AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38396343886002,
+          37.7299972589437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "03/18/2003",
+        "Location": "800 Block of BRYANT ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40367517406901,
+          37.775177507204496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "properties": {
+        "Category": "DRUG/NARCOTIC",
+        "Descript": "POSSESSION OF BASE/ROCK COCAINE",
+        "Date": "06/29/2003",
+        "Location": "600 Block of EDDY ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41821614059299,
+          37.78325717228879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "properties": {
+        "Category": "DRUG/NARCOTIC",
+        "Descript": "VISITING WHERE DRUGS ARE USED OR SMOKED",
+        "Date": "06/29/2003",
+        "Location": "600 Block of EDDY ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41821614059299,
+          37.78325717228879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "properties": {
+        "Category": "OTHER OFFENSES",
+        "Descript": "CONSPIRACY",
+        "Date": "06/29/2003",
+        "Location": "600 Block of EDDY ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41821614059299,
+          37.78325717228879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "05/19/2003",
+        "Location": "800 Block of BRYANT ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40367517406901,
+          37.775177507204496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "04/29/2003",
+        "Location": "800 Block of VAN NESS AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420899861106,
+          37.7830998598518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "properties": {
+        "Category": "SEX OFFENSES, FORCIBLE",
+        "Descript": "ATTEMPTED RAPE, BODILY FORCE",
+        "Date": "07/09/2003",
+        "Location": "800 Block of BRYANT ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403742963163,
+          37.7752317022311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "Category": "SEX OFFENSES, FORCIBLE",
+        "Descript": "SEXUAL BATTERY",
+        "Date": "07/09/2003",
+        "Location": "800 Block of BRYANT ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403742963163,
+          37.7752317022311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "properties": {
+        "Category": "KIDNAPPING",
+        "Descript": "FALSE IMPRISONMENT",
+        "Date": "07/09/2003",
+        "Location": "800 Block of BRYANT ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403742963163,
+          37.7752317022311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "02/18/2003",
+        "Location": "1600 Block of KIRKWOOD AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.390718076188,
+          37.7385560584619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "properties": {
+        "Category": "LARCENY/THEFT",
+        "Descript": "PETTY THEFT SHOPLIFTING",
+        "Date": "02/18/2003",
+        "Location": "400 Block of 10TH ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.410499480261,
+          37.7709080121265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "05/06/2003",
+        "Location": "300 Block of EDDY ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.413954401004,
+          37.783726669143206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "01/01/2003",
+        "Location": "TURK ST / TAYLOR ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41076876635,
+          37.7832145189783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "04/11/2003",
+        "Location": "RANDOLPH ST / HEAD ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.464399080209,
+          37.714293789154794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "properties": {
+        "Category": "NON-CRIMINAL",
+        "Descript": "LOST PROPERTY",
+        "Date": "02/11/2003",
+        "Location": "600 Block of POLK ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.418975990673,
+          37.7822802427689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "properties": {
+        "Category": "SUSPICIOUS OCC",
+        "Descript": "SUSPICIOUS OCCURRENCE",
+        "Date": "02/15/2003",
+        "Location": "400 Block of 17TH AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.476076157719,
+          37.7798003502211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "02/19/2003",
+        "Location": "200 Block of 6TH ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.406736227461,
+          37.7793521642061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "02/27/2003",
+        "Location": "0 Block of NANTUCKET AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.440990149758,
+          37.7280912993572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "properties": {
+        "Category": "FORGERY/COUNTERFEITING",
+        "Descript": "CHECKS, FORGERY (FELONY)",
+        "Date": "02/18/2003",
+        "Location": "5100 Block of MISSION ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44048673126899,
+          37.717089261011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "properties": {
+        "Category": "BURGLARY",
+        "Descript": "BURGLARY OF STORE, UNLAWFUL ENTRY",
+        "Date": "03/07/2003",
+        "Location": "200 Block of GEARY ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.407810337041,
+          37.7873789357712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "properties": {
+        "Category": "ASSAULT",
+        "Descript": "BATTERY",
+        "Date": "04/10/2003",
+        "Location": "300 Block of WOODSIDE AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45219203676399,
+          37.7456678660441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "properties": {
+        "Category": "NON-CRIMINAL",
+        "Descript": "FOUND PROPERTY",
+        "Date": "06/11/2003",
+        "Location": "1600 Block of PALOU AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.392096198043,
+          37.7346106238966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "03/05/2003",
+        "Location": "0 Block of BORICA ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.468567046618,
+          37.7218120474233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "05/09/2003",
+        "Location": "0 Block of MCALLISTER ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.413430143292,
+          37.780924484028894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "01/11/2003",
+        "Location": "MARKET ST / 8TH ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41474383539,
+          37.7787192627661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "02/27/2003",
+        "Location": "300 Block of ELLIS ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41198560389499,
+          37.785000712625106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "04/01/2003",
+        "Location": "500 Block of EDDY ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.415916307497,
+          37.783546053136504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "01/07/2003",
+        "Location": "300 Block of EDINBURGH ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43015053357401,
+          37.7237516945755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "properties": {
+        "Category": "LARCENY/THEFT",
+        "Descript": "PETTY THEFT AUTO STRIP",
+        "Date": "02/17/2003",
+        "Location": "SPRUCE ST / ANZA ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45289806736099,
+          37.780362369059205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "04/01/2003",
+        "Location": "600 Block of PACIFIC AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.406292154396,
+          37.7969378530276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "03/13/2003",
+        "Location": "LARKIN ST / GOLDEN GATE AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417146843843,
+          37.7814463501111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "01/30/2003",
+        "Location": "0 Block of TURK ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.410120385828,
+          37.7832742526736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "04/16/2003",
+        "Location": "TURK ST / TAYLOR ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41076876635,
+          37.7832145189783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "01/27/2003",
+        "Location": "800 Block of BRYANT ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40367517406901,
+          37.775177507204496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "properties": {
+        "Category": "VEHICLE THEFT",
+        "Descript": "VEHICLE, RECOVERED, AUTO",
+        "Date": "02/06/2003",
+        "Location": "4100 Block of GEARY BL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.463649337975,
+          37.7810158001278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "properties": {
+        "Category": "VEHICLE THEFT",
+        "Descript": "VEHICLE, RECOVERED, AUTO",
+        "Date": "03/31/2003",
+        "Location": "400 Block of STANYAN ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.454416646218,
+          37.773814442411705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "properties": {
+        "Category": "VEHICLE THEFT",
+        "Descript": "VEHICLE, RECOVERED, OTHER VEHICLE",
+        "Date": "02/26/2003",
+        "Location": "2200 Block of NEWCOMB AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40112891152201,
+          37.741623898225896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "properties": {
+        "Category": "VEHICLE THEFT",
+        "Descript": "STOLEN MOTORCYCLE",
+        "Date": "01/06/2003",
+        "Location": "JUNIPERO SERRA BL / HOLLOWAY AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.472321912644,
+          37.7216221726592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "properties": {
+        "Category": "VEHICLE THEFT",
+        "Descript": "VEHICLE, RECOVERED, MOTORCYCLE",
+        "Date": "01/06/2003",
+        "Location": "JUNIPERO SERRA BL / HOLLOWAY AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.472321912644,
+          37.7216221726592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "properties": {
+        "Category": "OTHER OFFENSES",
+        "Descript": "DRIVERS LICENSE, SUSPENDED OR REVOKED",
+        "Date": "01/06/2003",
+        "Location": "JUNIPERO SERRA BL / HOLLOWAY AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.472321912644,
+          37.7216221726592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "properties": {
+        "Category": "DRUG/NARCOTIC",
+        "Descript": "POSSESSION OF MARIJUANA",
+        "Date": "02/18/2003",
+        "Location": "800 Block of GOUGH ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42387574590201,
+          37.7815322022236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "properties": {
+        "Category": "VEHICLE THEFT",
+        "Descript": "VEHICLE, RECOVERED, OTHER VEHICLE",
+        "Date": "04/16/2003",
+        "Location": "0 Block of UNITED NATIONS PZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.414283516807,
+          37.7798026426118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "properties": {
+        "Category": "VEHICLE THEFT",
+        "Descript": "VEHICLE, RECOVERED, OTHER VEHICLE",
+        "Date": "02/19/2003",
+        "Location": "2600 Block of PACIFIC AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43903152615101,
+          37.792834644197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "properties": {
+        "Category": "WARRANTS",
+        "Descript": "WARRANT ARREST",
+        "Date": "06/15/2003",
+        "Location": "100 Block of CAPP ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41860417616999,
+          37.7645406474689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "properties": {
+        "Category": "VEHICLE THEFT",
+        "Descript": "VEHICLE, RECOVERED, OTHER VEHICLE",
+        "Date": "01/01/2003",
+        "Location": "100 Block of ELSIE ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.417482152738,
+          37.7432053428649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "properties": {
+        "Category": "BURGLARY",
+        "Descript": "BURGLARY OF STORE, UNLAWFUL ENTRY",
+        "Date": "02/18/2003",
+        "Location": "2600 Block of GEARY BL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44720400844601,
+          37.7823643146491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "properties": {
+        "Category": "VEHICLE THEFT",
+        "Descript": "VEHICLE, RECOVERED, OTHER VEHICLE",
+        "Date": "01/07/2003",
+        "Location": "100 Block of CLARA ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.400213058516,
+          37.781219757735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "properties": {
+        "Category": "LARCENY/THEFT",
+        "Descript": "PETTY THEFT WITH PRIOR",
+        "Date": "02/18/2003",
+        "Location": "2600 Block of GEARY BL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44720400844601,
+          37.7823643146491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "properties": {
+        "Category": "OTHER OFFENSES",
+        "Descript": "DRIVERS LICENSE, SUSPENDED OR REVOKED",
+        "Date": "02/18/2003",
+        "Location": "16TH ST / 7TH ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39506284987101,
+          37.7665443562126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "properties": {
+        "Category": "NON-CRIMINAL",
+        "Descript": "LOST PROPERTY",
+        "Date": "02/18/2003",
+        "Location": "800 Block of BRYANT ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403742963163,
+          37.7752317022311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "properties": {
+        "Category": "DRUG/NARCOTIC",
+        "Descript": "POSSESSION OF MARIJUANA",
+        "Date": "02/18/2003",
+        "Location": "0 Block of JONES ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41212160845801,
+          37.7813786406361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "properties": {
+        "Category": "VEHICLE THEFT",
+        "Descript": "VEHICLE, RECOVERED, OTHER VEHICLE",
+        "Date": "01/05/2003",
+        "Location": "0 Block of GARRISON AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41292865174101,
+          37.7108440493915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "properties": {
+        "Category": "NON-CRIMINAL",
+        "Descript": "LOST PROPERTY",
+        "Date": "02/19/2003",
+        "Location": "1300 Block of FOLSOM ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.412227135355,
+          37.7732376715687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "properties": {
+        "Category": "FRAUD",
+        "Descript": "FALSE PRETENSES, GRAND THEFT",
+        "Date": "02/17/2003",
+        "Location": "300 Block of COLUMBUS AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.407669499424,
+          37.7985117160826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "properties": {
+        "Category": "VEHICLE THEFT",
+        "Descript": "VEHICLE, RECOVERED, MOTORCYCLE",
+        "Date": "01/28/2003",
+        "Location": "1400 Block of LEAVENWORTH ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41639684919399,
+          37.7941810635756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "properties": {
+        "Category": "LARCENY/THEFT",
+        "Descript": "GRAND THEFT FROM LOCKED AUTO",
+        "Date": "02/18/2003",
+        "Location": "14TH ST / GUERRERO ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42441271507201,
+          37.7680054163869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "properties": {
+        "Category": "ASSAULT",
+        "Descript": "BATTERY OF A POLICE OFFICER",
+        "Date": "02/19/2003",
+        "Location": "400 Block of NATOMA ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40668477101002,
+          37.7810106825623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "properties": {
+        "Category": "DRUG/NARCOTIC",
+        "Descript": "POSSESSION OF BASE/ROCK COCAINE",
+        "Date": "02/19/2003",
+        "Location": "400 Block of NATOMA ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40668477101002,
+          37.7810106825623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "properties": {
+        "Category": "LARCENY/THEFT",
+        "Descript": "PETTY THEFT FROM LOCKED AUTO",
+        "Date": "02/18/2003",
+        "Location": "OCTAVIA ST / OAK ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.424246473478,
+          37.77481225234921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "properties": {
+        "Category": "TRESPASS",
+        "Descript": "TRESPASSING",
+        "Date": "02/19/2003",
+        "Location": "500 Block of MARKET ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.399860692395,
+          37.790508970963394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "properties": {
+        "Category": "LARCENY/THEFT",
+        "Descript": "GRAND THEFT FROM LOCKED AUTO",
+        "Date": "02/19/2003",
+        "Location": "600 Block of SILLIMAN ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.411042446829,
+          37.7297148186521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "properties": {
+        "Category": "DRUG/NARCOTIC",
+        "Descript": "SALE OF MARIJUANA",
+        "Date": "02/18/2003",
+        "Location": "0 Block of JONES ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41212160845801,
+          37.7813786406361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "properties": {
+        "Category": "MISSING PERSON",
+        "Descript": "MISSING JUVENILE",
+        "Date": "02/18/2003",
+        "Location": "600 Block of PRENTISS ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41247187549601,
+          37.7348960836964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "properties": {
+        "Category": "VANDALISM",
+        "Descript": "MALICIOUS MISCHIEF, GRAFFITI",
+        "Date": "01/13/2003",
+        "Location": "3900 Block of 19TH AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47252944575199,
+          37.7171858507749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "properties": {
+        "Category": "MISSING PERSON",
+        "Descript": "FOUND PERSON",
+        "Date": "02/18/2003",
+        "Location": "600 Block of PRENTISS ST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41247187549601,
+          37.7348960836964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "properties": {
+        "Category": "ASSAULT",
+        "Descript": "BATTERY",
+        "Date": "02/18/2003",
+        "Location": "300 Block of COLUMBUS AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.407069627873,
+          37.7981847618287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "properties": {
+        "Category": "OTHER OFFENSES",
+        "Descript": "OBSCENE PHONE CALLS(S)",
+        "Date": "02/18/2003",
+        "Location": "800 Block of CENTRAL AV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.445006858202,
+          37.777363690024295
+        ]
+      }
+    }
+  ]
+}
